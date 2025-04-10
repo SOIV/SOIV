@@ -1,9 +1,9 @@
-## 안녕하세요! 👋
-KR / [JP](README-JP.md) / [EN](README-EN.md)
+## Hi there 👋
+[KR](README.md) / [JP](README-JP.md) / EN(translate : Google)
 
-안녕하세요. 본업인 영상러로 활동을 이어나가고 있는 SOIV라고 합니다.
+Hello. My name is SOIV and I am currently working as a videographer.
 
-- 🔭 현재 작업중인 목록
+- 🔭 I’m currently working on ...
     * HYolss Project (Discord Bot)
         - HYolss [🔧]
         - HYolss Lite [3.3.0-Lite]
@@ -18,7 +18,7 @@ KR / [JP](README-JP.md) / [EN](README-EN.md)
         - Email
         - URL shortener
     * SOIV Studio statuspage
-- 📫 연락 방법: 
+- 📫 How to reach me: ...
     * Email : biz@soiv-studio.xyz
     * Discord : soiv_studio
     * X(Twitter) : @soiv_official
@@ -36,17 +36,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-**SOIV/SOIV**는 `README.md`(이 파일)가 GitHub 프로필에 표시되므로 ✨ _특별한_ ✨ 저장소입니다.
-
-시작하는 데 도움이 될 몇 가지 아이디어를 소개합니다.
-
-- 🔭 현재 ...을(를) 작업하고 있습니다.
-- 🌱 현재 ...을(를) 배우고 있습니다.
-- 👯 ...에 대해 협업하고 싶습니다.
-- 🤔 ...에 대한 도움이 필요합니다.
-- 💬 ...에 대해 문의하세요.
-- 📫 연락 방법: ...
-- 😄 대명사: ...
-- ⚡ 재미있는 사실: ...
 -->
