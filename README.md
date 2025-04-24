@@ -8,6 +8,11 @@ KR / [JP](README-JP.md) / [EN](README-EN.md)
 
 오시는 하츠네 미쿠입니다. 프로세카는 최고야!
 
+아이디어 박스에 있는 내용을 실제 프로젝트로 만들고 싶으면 이메일로 연락 주세요.
+프로젝트에 참여할 의향이 있습니다.
+
+[idea Box](idea-box)
+
 - 🔭 현재 작업중인 목록
     * HYolss Project (Discord Bot)
         - HYolss [🔧]
