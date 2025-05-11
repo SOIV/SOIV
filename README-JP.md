@@ -1,7 +1,7 @@
 ## こんにちは / 始めまして 👋
 [KR](README.md) / JP(translate : papago) / [EN](README-EN.md)
 
-日本語のREADMEはこれ以上アップデートしません。<br>
+日本語バージョンのREADMEはこれ以上アップデートしません。<br>
 英語バージョンのREADMEを確認してください。
 
 ---
