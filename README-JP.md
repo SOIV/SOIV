@@ -1,6 +1,11 @@
 ## こんにちは / 始めまして 👋
 [KR](README.md) / JP(translate : papago) / [EN](README-EN.md)
 
+日本語のREADMEはこれ以上アップデートしません。<br>
+英語バージョンのREADMEを確認してください。
+
+---
+
 こんにちは。本業である映像ラーとして活動を続けているSOIVと申します。
 
 - 🔭 I’m currently working on ...

@@ -17,22 +17,28 @@ KR / [JP](README-JP.md) / [EN](README-EN.md)
 아레 작업중인 프로젝트에 참여하고자 하시는 분도 이메일로 연락을 주세요.
 
 ---
+- ⚡ 운영 중이거나 작업이 끝난 목록
+    - SOIV Studio
+        - statuspage ( for [upptime](https://github.com/upptime/upptime) )
+- ⚡ 운영 중이나 추가 작업이나 보수가 필요한 목록
+    - HYolss Project (Discord Bot)
+        - HYolss Lite [3.3.0-Lite]
 - 🔭 현재 작업중인 목록
     * HYolss Project (Discord Bot)
         - HYolss [🔧]
-        - HYolss Lite [3.3.0-Lite]
-        - HYolss website, dashboard
-        - SOIV Studio/HYolss Docs
-    * SOIV Studio Website
-        - portfolio
-        - commission
-        - developer
+        - website, dashboard
+        - Docs
+    * SOIV Studio
+        - [Website] URL shortener
+        - [Website] portfolio
+        - [Website] commission
+        - [Website] developer
+        - [Website] dashboard
         - account
-        - dashboard
         - Email
-        - URL shortener
-    * SOIV Studio statuspage
-- 📫 연락 방법: 
+- 🌱 Idea Box < collaborate on and help with ... >
+    - DocuVerse Project
+- 📫 연락 방법
     * Email : biz@soiv-studio.xyz
     * Discord : soiv_studio
     * X(Twitter) : @soiv_official

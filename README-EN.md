@@ -3,21 +3,40 @@
 
 Hello. My name is SOIV and I am currently working as a videographer.
 
+I don't know how to code, and I only use AI to code and do my own planning and work.<br>
+My main job is editing and working on various videos on YouTube. I'm SOIV!
+
+---
+If you want to make the contents of the idea box into an actual project, please contact me by email.<br>
+I'm willing to participate in the project.
+
+[idea Box](idea-box)
+
+If you want to participate in the project I'm working on, please contact me by email.
+
+---
+
+- ⚡ List of running or completed tasks
+    - SOIV Studio
+        - statuspage ( for [upptime](https://github.com/upptime/upptime) )
+- ⚡ List of items in operation or in need of additional work or maintenance
+    - HYolss Project (Discord Bot)
+        - HYolss Lite [3.3.0-Lite]
 - 🔭 I’m currently working on ...
     * HYolss Project (Discord Bot)
         - HYolss [🔧]
-        - HYolss Lite [3.3.0-Lite]
-        - HYolss website, dashboard
-        - SOIV Studio/HYolss Docs
-    * SOIV Studio Website
-        - portfolio
-        - commission
-        - developer
+        - website, dashboard
+        - Docs
+    * SOIV Studio
+        - [Website] URL shortener
+        - [Website] portfolio
+        - [Website] commission
+        - [Website] developer
+        - [Website] dashboard
         - account
-        - dashboard
         - Email
-        - URL shortener
-    * SOIV Studio statuspage
+- 🌱 Idea Box < collaborate on and help with ... >
+    - DocuVerse Project
 - 📫 How to reach me: ...
     * Email : biz@soiv-studio.xyz
     * Discord : soiv_studio
