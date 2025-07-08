@@ -19,16 +19,17 @@ KR / [JP](README-JP.md) / [EN](README-EN.md)
 ---
 - ⚡ 운영 중이거나 작업이 끝난 목록
     - SOIV Studio
-        - statuspage ( for [upptime](https://github.com/upptime/upptime) )
+        - [statuspage](https://github.com/SOIV-Studio/status-page) ( for [upptime](https://github.com/upptime/upptime) )
 - ⚡ 운영 중이나 추가 작업이나 보수가 필요한 목록
     - HYolss Project (Discord Bot)
-        - HYolss Lite [3.3.0-Lite]
+        - [HYolss Lite](https://github.com/SOIV-Studio/HYolss-Lite) [3.3.0-Lite]
 - 🔭 현재 작업중인 목록
     * HYolss Project (Discord Bot)
-        - HYolss [🔧]
-        - website, dashboard
+        - [HYolss](https://github.com/SOIV-Studio/HYolss) [🔧]
+        - website page
+        - dashboard [Front-end](https://github.com/SOIV-Studio/HYolss-Dashboard-Web_Front-end), Back-end(Private)
         - Docs
-    * SOIV Studio
+    * SOIV Studio / [Front-end](https://github.com/SOIV-Studio/main-website_Front-end), Back-end(Private)
         - [Website] URL shortener
         - [Website] portfolio
         - [Website] commission
@@ -37,7 +38,7 @@ KR / [JP](README-JP.md) / [EN](README-EN.md)
         - account
         - Email
 - 🌱 Idea Box < collaborate on and help with ... >
-    - DocuVerse Project
+    - [DocuVerse Project](https://github.com/SOIV/DocuVerse)
 - 📫 연락 방법
     * Email : biz@soiv-studio.xyz
     * Discord : soiv_studio

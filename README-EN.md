@@ -18,16 +18,17 @@ If you want to participate in the project I'm working on, please contact me by e
 
 - ⚡ List of running or completed tasks
     - SOIV Studio
-        - statuspage ( for [upptime](https://github.com/upptime/upptime) )
+        - [statuspage](https://github.com/SOIV-Studio/status-page) ( for [upptime](https://github.com/upptime/upptime) )
 - ⚡ List of items in operation or in need of additional work or maintenance
     - HYolss Project (Discord Bot)
-        - HYolss Lite [3.3.0-Lite]
+        - [HYolss Lite](https://github.com/SOIV-Studio/HYolss-Lite) [3.3.0-Lite]
 - 🔭 I’m currently working on ...
     * HYolss Project (Discord Bot)
-        - HYolss [🔧]
-        - website, dashboard
+        - [HYolss](https://github.com/SOIV-Studio/HYolss) [🔧]
+        - website page
+        - dashboard [Front-end](https://github.com/SOIV-Studio/HYolss-Dashboard-Web_Front-end), Back-end(Private)
         - Docs
-    * SOIV Studio
+    * SOIV Studio / [Front-end](https://github.com/SOIV-Studio/main-website_Front-end), Back-end(Private)
         - [Website] URL shortener
         - [Website] portfolio
         - [Website] commission
