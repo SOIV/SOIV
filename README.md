@@ -12,8 +12,6 @@ KR / [JP](README-JP.md) / [EN](README-EN.md)
 아이디어 박스에 있는 내용을 실제 프로젝트로 만들고 싶으면 이메일로 연락 주세요.<br>
 프로젝트에 참여할 의향이 있습니다.
 
-[idea Box](idea-box)
-
 아레 작업중인 프로젝트에 참여하고자 하시는 분도 이메일로 연락을 주세요.
 
 ---
@@ -37,7 +35,7 @@ KR / [JP](README-JP.md) / [EN](README-EN.md)
         - [Website] dashboard
         - account
         - Email
-- 🌱 Idea Box < collaborate on and help with ... >
+- 🌱 [idea Box](idea-box) < collaborate on and help with ... >
     - [DocuVerse Project](https://github.com/SOIV/DocuVerse)
 - 📫 연락 방법
     * Email : biz@soiv-studio.xyz

@@ -10,8 +10,6 @@ My main job is editing and working on various videos on YouTube. I'm SOIV!
 If you want to make the contents of the idea box into an actual project, please contact me by email.<br>
 I'm willing to participate in the project.
 
-[idea Box](idea-box)
-
 If you want to participate in the project I'm working on, please contact me by email.
 
 ---
@@ -36,7 +34,7 @@ If you want to participate in the project I'm working on, please contact me by e
         - [Website] dashboard
         - account
         - Email
-- 🌱 Idea Box < collaborate on and help with ... >
+- 🌱 [idea Box](idea-box) < collaborate on and help with ... >
     - DocuVerse Project
 - 📫 How to reach me: ...
     * Email : biz@soiv-studio.xyz
