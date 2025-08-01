@@ -3,10 +3,11 @@ KR / [JP](README-JP.md) / [EN](README-EN.md)
 
 안녕하세요. 본업인 영상러로 활동을 이어나가고 있는 SOIV라고 합니다.
 
-코딩을 할줄 모르고 오로지 AI를 사용하여 코딩을 하고 직접 계획과 작업을 진행하고<br>
+떠오른 아이디어 및 생각에 따라 직접 게획을 작성하며 작업이 가능한 부분에서는 직접 작업을 하지만<br>
+코딩을 할줄 모르고 오로지 AI를 사용하여 코딩을 하고 있으며<br>
 본업으로는 유튜브에서 편집과 여러 영상 작업을 하는 SOIV라고 합니다!
 
-오시를 하츠네 미쿠로 밀며 프로세카를 플레이 하는 사람.
+오시를 하츠네 미쿠로 밀며 리듬게임을 플레이 하는 사람 :)
 
 ---
 아이디어 박스에 있는 내용을 실제 프로젝트로 만들고 싶으면 이메일로 연락 주세요.<br>
@@ -22,12 +23,12 @@ KR / [JP](README-JP.md) / [EN](README-EN.md)
     - HYolss Project (Discord Bot)
         - [HYolss Lite](https://github.com/SOIV-Studio/HYolss-Lite) [3.3.0-Lite]
 - 🔭 현재 작업중인 목록
-    * HYolss Project (Discord Bot)
+    - HYolss Project (Discord Bot)
         - [HYolss](https://github.com/SOIV-Studio/HYolss) [🔧]
         - website page
         - dashboard [Front-end](https://github.com/SOIV-Studio/HYolss-Dashboard-Web_Front-end), Back-end(Private)
         - Docs
-    * SOIV Studio / [Front-end](https://github.com/SOIV-Studio/main-website_Front-end), Back-end(Private)
+    - SOIV Studio / [Front-end](https://github.com/SOIV-Studio/main-website_Front-end), Back-end(Private)
         - [Website] URL shortener
         - [Website] portfolio
         - [Website] commission
@@ -38,9 +39,9 @@ KR / [JP](README-JP.md) / [EN](README-EN.md)
 - 🌱 [idea Box](idea-box) < collaborate on and help with ... >
     - [DocuVerse Project](https://github.com/SOIV/DocuVerse)
 - 📫 연락 방법
-    * Email : biz@soiv-studio.xyz
-    * Discord : soiv_studio
-    * X(Twitter) : @soiv_official
+    - E-mail : biz@soiv-studio.xyz
+    - Discord : soiv_studio
+    - X(Twitter) : @soiv_official
 
 <!--
 **SOIV/SOIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
