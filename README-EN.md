@@ -39,9 +39,9 @@ If you want to participate in the project I'm working on, please contact me by e
 - 🌱 [idea Box](idea-box) < collaborate on and help with ... >
     - DocuVerse Project
 - 📫 How to reach me: ...
-    * Email : biz@soiv-studio.xyz
-    * Discord : soiv_studio
-    * X(Twitter) : @soiv_official
+    - E-mail : biz@soiv-studio.xyz
+    - Discord : soiv_studio
+    - X(Twitter) : @soiv_official
 
 <!--
 **SOIV/SOIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
