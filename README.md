@@ -1,5 +1,6 @@
+한국어 / [English](README-EN.md) / [日本語](README-JP.md)
+
 ## 안녕하세요! 👋
-KR / [JP](README-JP.md) / [EN](README-EN.md)
 
 안녕하세요. 본업인 영상러로 활동을 이어나가고 있는 SOIV라고 합니다.
 
