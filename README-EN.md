@@ -1,5 +1,6 @@
+[한국어](README.md) / **English** (translate : Google) / [日本語](README-JP.md)
+
 ## Hi there 👋
-[KR](README.md) / [JP](README-JP.md) / EN(translate : Google)
 
 Hello. My name is SOIV and I'm a videographer, working full-time.
 
