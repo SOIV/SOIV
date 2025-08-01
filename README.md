@@ -1,4 +1,4 @@
-한국어 / [English](README-EN.md) / [日本語](README-JP.md)
+**한국어** / [English](README-EN.md) / [日本語](README-JP.md)
 
 ## 안녕하세요! 👋
 
