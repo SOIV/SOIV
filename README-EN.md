@@ -1,10 +1,11 @@
 ## Hi there 👋
 [KR](README.md) / [JP](README-JP.md) / EN(translate : Google)
 
-Hello. My name is SOIV and I am currently working as a videographer.
+Hello. My name is SOIV and I'm a videographer, working full-time.
 
-I don't know how to code, and I only use AI to code and do my own planning and work.<br>
-My main job is editing and working on various videos on YouTube. I'm SOIV!
+I personally plan projects based on ideas and thoughts that come to mind, and I personally work on projects where possible. However, <br>
+I don't know how to code and rely solely on AI for coding. <br>
+My main job is editing and working on various videos on YouTube!
 
 ---
 If you want to make the contents of the idea box into an actual project, please contact me by email.<br>
