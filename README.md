@@ -18,18 +18,14 @@
 
 ---
 - ⚡ 운영 중이거나 작업이 끝난 목록
-    - SOIV Studio
-        - [statuspage](https://github.com/SOIV-Studio/status-page) ( for [upptime](https://github.com/upptime/upptime) )
 - ⚡ 운영 중이나 추가 작업이나 보수가 필요한 목록
-    - HYolss Project (Discord Bot)
-        - [HYolss Lite](https://github.com/SOIV-Studio/HYolss-Lite) [3.3.0-Lite]
 - 🔭 현재 작업중인 목록
-    - HYolss Project (Discord Bot)
-        - [HYolss](https://github.com/SOIV-Studio/HYolss) [🔧]
+    - Ayaka Project(HYolss Project) [Discord Bot]
+        - [HYolss](https://github.com/SOIV-Studio/HYolss) [🔧] / [Lite ver.](https://github.com/SOIV-Studio/HYolss-Lite)
         - website page
-        - dashboard [Front-end](https://github.com/SOIV-Studio/HYolss-Dashboard-Web_Front-end), Back-end(Private)
+        - dashboard / Fullstack(Private)
         - Docs
-    - SOIV Studio / [Front-end](https://github.com/SOIV-Studio/main-website_Front-end), Back-end(Private)
+    - SOIV Studio / Fullstack(Private)
         - [Website] URL shortener
         - [Website] portfolio
         - [Website] commission
@@ -43,6 +39,10 @@
     - E-mail : biz@soiv-studio.xyz
     - Discord : soiv_studio
     - X(Twitter) : @soiv_official
+- ✏️ 개발 언어
+    - JS(JavaScript/Node.js)
+    - HTML
+
 
 <!--
 **SOIV/SOIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
