@@ -40,7 +40,8 @@
     - Discord : soiv_studio
     - X(Twitter) : @soiv_official
 - ✏️ 개발 언어
-    - JS(JavaScript/Node.js)
+    - JS(JavaScript)
+    - Node.js
     - HTML
 
 
