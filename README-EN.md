@@ -17,18 +17,14 @@ If you want to participate in the project I'm working on, please contact me by e
 ---
 
 - ⚡ List of running or completed tasks
-    - SOIV Studio
-        - [statuspage](https://github.com/SOIV-Studio/status-page) ( for [upptime](https://github.com/upptime/upptime) )
 - ⚡ List of items in operation or in need of additional work or maintenance
-    - HYolss Project (Discord Bot)
-        - [HYolss Lite](https://github.com/SOIV-Studio/HYolss-Lite) [3.3.0-Lite]
 - 🔭 I’m currently working on ...
-    * HYolss Project (Discord Bot)
-        - [HYolss](https://github.com/SOIV-Studio/HYolss) [🔧]
+    - Ayaka Project(HYolss Project) [Discord Bot]
+        - [HYolss](https://github.com/SOIV-Studio/HYolss) [🔧] / [Lite ver.](https://github.com/SOIV-Studio/HYolss-Lite)
         - website page
-        - dashboard [Front-end](https://github.com/SOIV-Studio/HYolss-Dashboard-Web_Front-end), Back-end(Private)
+        - dashboard / Fullstack(Private)
         - Docs
-    * SOIV Studio / [Front-end](https://github.com/SOIV-Studio/main-website_Front-end), Back-end(Private)
+    - SOIV Studio / Fullstack(Private)
         - [Website] URL shortener
         - [Website] portfolio
         - [Website] commission
@@ -37,11 +33,15 @@ If you want to participate in the project I'm working on, please contact me by e
         - account
         - Email
 - 🌱 [idea Box](idea-box) < collaborate on and help with ... >
-    - DocuVerse Project
+    - [DocuVerse Project](https://github.com/SOIV/DocuVerse)
 - 📫 How to reach me: ...
     - E-mail : biz@soiv-studio.xyz
     - Discord : soiv_studio
     - X(Twitter) : @soiv_official
+- ✏️ Programming Language
+    - JS(JavaScript/Node.js)
+    - HTML
+
 
 <!--
 **SOIV/SOIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
