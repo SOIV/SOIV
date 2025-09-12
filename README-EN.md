@@ -39,7 +39,8 @@ If you want to participate in the project I'm working on, please contact me by e
     - Discord : soiv_studio
     - X(Twitter) : @soiv_official
 - ✏️ Programming Language
-    - JS(JavaScript/Node.js)
+    - JS(JavaScript)
+    - Node.js
     - HTML
 
 
