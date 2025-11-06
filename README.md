@@ -18,6 +18,7 @@
 
 ---
 - ⚡ 운영 중이거나 작업이 끝난 목록
+    - [YouTube Player Extension](https://github.com/SOIV/YouTube-Player-Extension)
 - ⚡ 운영 중이나 추가 작업이나 보수가 필요한 목록
 - 🔭 현재 작업중인 목록
     - Ayaka Project(HYolss Project) [Discord Bot]
