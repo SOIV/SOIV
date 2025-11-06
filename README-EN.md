@@ -17,6 +17,7 @@ If you want to participate in the project I'm working on, please contact me by e
 ---
 
 - ⚡ List of running or completed tasks
+    - [YouTube Player Extension](https://github.com/SOIV/YouTube-Player-Extension)
 - ⚡ List of items in operation or in need of additional work or maintenance
 - 🔭 I’m currently working on ...
     - Ayaka Project(HYolss Project) [Discord Bot]
@@ -36,7 +37,7 @@ If you want to participate in the project I'm working on, please contact me by e
     - [DocuVerse Project](https://github.com/SOIV/DocuVerse)
 - 📫 How to reach me: ...
     - E-mail : biz@soiv-studio.xyz
-    - Discord : soiv_studio
+    - Discord : soiv_studio (Add Friend X)
     - X(Twitter) : @soiv_official
 - ✏️ Programming Language
     - JS(JavaScript)
