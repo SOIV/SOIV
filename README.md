@@ -37,7 +37,7 @@
     - [DocuVerse Project](https://github.com/SOIV/DocuVerse)
 - 📫 연락 방법
     - E-mail : biz@soiv-studio.xyz
-    - Discord : soiv_studio
+    - Discord : soiv_studio (Add Friend X)
     - X(Twitter) : @soiv_official
 - ✏️ 개발 언어
     - JS(JavaScript)
