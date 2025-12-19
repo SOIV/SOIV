@@ -16,10 +16,9 @@ If you want to participate in the project I'm working on, please contact me by e
 
 ---
 
-- ⚡ List of running or completed tasks
-    - [YouTube Player Extension](https://github.com/SOIV/YouTube-Player-Extension)
-- ⚡ List of items in operation or in need of additional work or maintenance
 - 🔭 I’m currently working on ...
+    - [YouTube Player Extension](https://github.com/SOIV/YouTube-Player-Extension)
+    - [Live Stream Translator(LST) Extension Project](https://github.com/SOIV/LST_Extension-Project)
     - Ayaka Project(HYolss Project) [Discord Bot]
         - [HYolss](https://github.com/SOIV-Studio/HYolss) [🔧] / [Lite ver.](https://github.com/SOIV-Studio/HYolss-Lite)
         - website page

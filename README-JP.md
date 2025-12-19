@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: ...
     - E-mail : biz@soiv-studio.xyz
-    - Discord : soiv_studio
+    - Discord : soiv_studio (Add Friend X)
     - X(Twitter) : @soiv_official
 
 <!--
