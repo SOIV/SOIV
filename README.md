@@ -16,11 +16,11 @@
 
 아레 작업중인 프로젝트에 참여하고자 하시는 분도 이메일로 연락을 주세요.
 
-작업하는 모든 프로젝트에서는 다음과 같은 폰트를 사용합니다.
-- [Pretendard](https://github.com/orioncactus/pretendard)
-- [Freesentation](https://freesentation.blog/freesentation)
-- [PAPERLOGY](https://freesentation.blog/paperlogyfont)
-- [A2Z](https://freesentation.blog/a2z)
+- 작업하는 모든 프로젝트에서는 다음과 같은 폰트를 사용합니다.
+    - [Pretendard](https://github.com/orioncactus/pretendard)
+    - [Freesentation](https://freesentation.blog/freesentation)
+    - [PAPERLOGY](https://freesentation.blog/paperlogyfont)
+    - [A2Z](https://freesentation.blog/a2z)
 
 ---
 
