@@ -27,13 +27,14 @@
 - 🔭 현재 작업중인 목록 < I’m currently working on ... >
     - [YouTube Player Extension](https://github.com/SOIV/YouTube-Player-Extension)
     - Fieldstack Project / [![GitHub Org](https://img.shields.io/badge/GitHub-Fieldstack--Project-181717?logo=github)](https://github.com/Fieldstack-Project)
-    - [AniField](https://github.com/SOIV/AniField)
     - [Live Stream Translator(LST) Extension Project](https://github.com/SOIV/LST_Extension-Project)
     - Ayaka Project(HYolss Project) [Discord Bot] / [![GitHub Org](https://img.shields.io/badge/GitHub-Ayaka--Project-181717?logo=github)](https://github.com/Ayaka-Project)
     - SOIV Studio / Fullstack(Private)
         - [Website] URL shortener / portfolio / commission / developer / dashboard
         - account
         - Email
+- 💾 Archive
+    - [AniField](https://github.com/SOIV/AniField)
 - 🌱 [idea Box](idea-box) < collaborate on and help with ... >
     - [DocuVerse Project](https://github.com/SOIV/DocuVerse)
 - 📫 연락 방법 < How to reach me: ... >
