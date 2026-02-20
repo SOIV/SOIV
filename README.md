@@ -34,7 +34,7 @@
         - account
         - Email
 - 💾 Archive
-    - [AniField](https://github.com/SOIV/AniField)
+    - [AniField](https://github.com/SOIV/AniField) - [ Private ]
 - 🌱 [idea Box](idea-box) < collaborate on and help with ... >
     - [DocuVerse Project](https://github.com/SOIV/DocuVerse)
 - 📫 연락 방법 < How to reach me: ... >
